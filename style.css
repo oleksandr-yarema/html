@@ -1,0 +1,15 @@
+.carousel-control-prev{
+    background-image: url(images/arrow-left.svg);
+    background-repeat: no-repeat;
+}
+.carousel-control-next{
+    background-image: url(images/arrow-right.svg);
+    background-repeat: no-repeat;
+}
+.carousel-control-next, .carousel-control-prev{
+    width: 2%;
+}
+.carousel-inner {
+    width: 90%;
+    margin: auto;
+}
